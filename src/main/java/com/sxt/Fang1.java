@@ -7,5 +7,6 @@ public class Fang1 implements LiuInter {
     @Override
     public void a() {
         System.out.println("F1");
+        System.out.println("F1");
     }
 }
