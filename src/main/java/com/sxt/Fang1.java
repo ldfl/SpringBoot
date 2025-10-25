@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Fang1 implements LiuInter {
     @Override
     public void a() {
-        System.out.println("F1");
+        System.out.println("20251025");
         System.out.println("F1");
     }
 }
